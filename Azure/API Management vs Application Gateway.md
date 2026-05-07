@@ -62,6 +62,8 @@ Here’s a detailed comparison of Azure API Management (APIM) vs Azure Applicati
 - WAF for OWASP protection.
 - Autoscaling and zone redundancy.
 
+WAF stands for Web Application Firewall. It is a security service that protects web applications by filtering, monitoring, and blocking malicious HTTP/S traffic. WAFs help defend against common web attacks such as SQL injection, cross-site scripting (XSS), and other OWASP Top 10 threats. In Azure, WAF is available as a feature of Application Gateway and Azure Front Door.
+
 ---
 
 ### 5. Use Cases
