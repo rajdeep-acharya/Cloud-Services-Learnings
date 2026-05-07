@@ -4,7 +4,7 @@ I want to expose my API service, currently hosted in Azure kubernetes service. W
 
 ## REPLY
 
-Optimized tool selectionHere’s a detailed comparison of Azure API Management (APIM) vs Azure Application Gateway (App Gateway) for exposing an API service hosted on Azure Kubernetes Service (AKS), with a focus on managed identity (Workload Identity) integration:
+Here’s a detailed comparison of Azure API Management (APIM) vs Azure Application Gateway (App Gateway) for exposing an API service hosted on Azure Kubernetes Service (AKS), with a focus on managed identity (Workload Identity) integration:
 
 ---
 
